@@ -52,23 +52,3 @@ This repository contains a set of MySQL scripts and tasks designed to enhance yo
 
 #### 11. No table for a meeting
 - **Objective**: Create a view `need_meeting` listing all students with scores under 80 and no recent meeting.
-- **Skills Gained**: Utilizing views for complex data filtering.
-
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-   cd alx-backend-storage/0x00-MySQL_Advanced
-   ```
-
-2. Execute the provided SQL scripts using MySQL:
-
-   ```bash
-   mysql -uroot -p < script.sql
-   ```
-
-3. Explore the scripts and tasks in the corresponding files.
-
-Feel free to use and modify these scripts for learning and practicing advanced MySQL concepts!
